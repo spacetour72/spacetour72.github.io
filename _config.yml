@@ -14,6 +14,7 @@ author:
   name: 이지훈 # author name
   bio: >- # tell to the world <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
     공부하며 정리하는 블로그입니다. 
+    <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
