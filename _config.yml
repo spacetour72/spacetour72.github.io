@@ -6,7 +6,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/spacetour72/spacetour72.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -23,7 +23,7 @@ author:
   avatar: /assets/img/profile3.png # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://spacetour72.github.io" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
