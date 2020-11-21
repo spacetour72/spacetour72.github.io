@@ -23,7 +23,7 @@ author:
   avatar: /assets/img/profile3.png # change with your own avatar
 
 # URL settings
-url: "https://spacetour72.github.io" #
+url: "https://spacetour72.github.io/"
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
